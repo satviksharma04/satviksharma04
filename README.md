@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @satviksharma04
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning React
 
 
 <!---
