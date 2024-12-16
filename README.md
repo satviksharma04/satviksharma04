@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/GythNLlEJtYAAAAC/code-encoding.gif">
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 📫 How to reach me **sharmasatvik58@gmail.com**
 
